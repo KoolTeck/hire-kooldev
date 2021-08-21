@@ -8,7 +8,7 @@ export default class extends Document {
       <html lang="en">
         <Head>
           <title>KoolDev-Resume</title>
-          <link rel="icon" type="image/png" href="/public/logo.png"></link>
+          <link rel="icon" type="image/png" href="/favicon.ico"></link>
         </Head>
 
         <body>
