@@ -23,7 +23,7 @@ const favicon = require("serve-favicon");
   await register(app);
 
   // move all app code here
-  app.use(favicon("./public/favicon.ico"));
+  app.use(favicon("./public/logo.png"));
 
   app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin", "*");
