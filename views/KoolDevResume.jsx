@@ -25,7 +25,7 @@ const KoolDevResume = () => {
               <h2>
                 ADETUNJI <br></br> ADEBOWALE
               </h2>
-              <small>Front End Developer</small>
+              <small>Back End Developer</small>
             </Row>
             <div className="underline"></div>
             {/*details end*/}
@@ -124,7 +124,7 @@ const KoolDevResume = () => {
                   organizations. Skilled in designing, developing and testing
                   multiple web-based applications incorporating a range of
                   technologies. Aspiring to combine broad background with strong
-                  technical skills to excel as a Front-End Developer.
+                  technical skills to excel as a backend developer.
                 </em>
               </p>
             </Row>
