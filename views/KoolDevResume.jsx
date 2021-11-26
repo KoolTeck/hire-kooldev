@@ -25,7 +25,7 @@ const KoolDevResume = () => {
               <h2>
                 ADETUNJI <br></br> ADEBOWALE
               </h2>
-              <small>Back End Developer</small>
+              <small>Fullstack JS Developer</small>
             </Row>
             <div className="underline"></div>
             {/*details end*/}
@@ -217,7 +217,7 @@ const KoolDevResume = () => {
 
             {/*experience ended*/}
             {/* message me section started */}
-            <h3>REACH OUT</h3>
+            {/* <h3>REACH OUT</h3>
             <Form action="contact" method="POST" id="contactForm">
               <Row className="mb-4">
                 <Col>
@@ -260,14 +260,14 @@ const KoolDevResume = () => {
               <Button type="submit" variant="warning" className="mt-4">
                 SHOOT
               </Button>
-            </Form>
+            </Form> */}
 
             {/* message me section ended */}
           </Col>
           {/*main content containing experience end*/}
         </Row>
       </Container>
-      <footer>
+      {/* <footer>
         <p>made with 💖 by @kooldev For </p>
         <div>
           <a
@@ -291,7 +291,7 @@ const KoolDevResume = () => {
           </a>{" "}
           Stage Two Task
         </div>
-      </footer>
+      </footer> */}
     </>
   );
 };
