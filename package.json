@@ -1,9 +1,9 @@
 {
-  "name": "app",
+  "name": "kooljoe resume",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "Adetunji Adebowale",
   "scripts": {
     "dev": "nodemon server/index.js",
     "start": "node server/index.js"
@@ -27,6 +27,9 @@
     "react-dom": "^16.14.0",
     "react-icons": "^4.2.0",
     "serve-favicon": "^2.5.0"
+  },
+    "engines": {
+    "node": ">=14"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
